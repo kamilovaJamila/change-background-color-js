@@ -1,0 +1,11 @@
+#background{
+    background-color: pink;
+    width: 400px;
+    height: 400px;
+  
+}
+
+#clickBtn{
+    cursor: pointer;
+   
+}
